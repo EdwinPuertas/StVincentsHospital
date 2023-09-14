@@ -4,9 +4,9 @@ The hospital wishes to develop an information system to digitize and centralize 
 
 The input data that will be requested from patients are the following:
 
-Patient data (document, name, name, sex, date of birth).
-Vital signs (blood pressure, temperature, O2 saturation, respiratory rate).
-Evolution notes
-Diagnostic images
-Laboratory test results
-Prescribed medications
+- Patient data (document, name, name, sex, date of birth).
+- Vital signs (blood pressure, temperature, O2 saturation, respiratory rate).
+- Evolution notes.
+- Diagnostic images.
+- Laboratory test results.
+- Prescribed medications.
