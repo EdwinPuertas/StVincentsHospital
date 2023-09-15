@@ -10,3 +10,9 @@ The input data that will be requested from patients are the following:
 - Diagnostic images.
 - Laboratory test results.
 - Prescribed medications.
+
+
+## Team
+
+- Edwin Puertas, PhD | Associate Professor <epuerta@utb.edu.co>
+- Sergio Andres Gutierrez De Piñeres | Mechatronic Student at UTB  | @F1ammetta
